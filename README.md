@@ -17,12 +17,12 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=260&lines=ABOUT&repeat=false" alt="About" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=260&lines=ABOUT&repeat=false" alt="About Me" />
 </div>
 
 <p align="center" style="max-width:720px;">
 
-I'm Ram Anurag, a final-year Electronics and Communication Engineering student with a pull toward the physical side of computing — the point where an idea on paper turns into something that actually switches, in silicon. VLSI and ASIC design stopped being just a specialization for me a while ago; it's the space I want to build a career in, working toward becoming a design engineer who can carry a chip from a written spec all the way to working hardware.
+Hi I'm Ram Anurag, a final-year ECE student with a pull toward the physical side of computing — the point where an idea on paper turns into something that actually switches, in silicon. VLSI and ASIC design stopped being just a specialization for me a while ago; it's the space I want to build a career in, working toward becoming a design engineer who can carry a chip from a written spec all the way to working hardware.
 
 Outside of coursework, I spend a lot of my time taking projects through real design flows end-to-end, just to understand every step and not only the ones a syllabus covers. I'm early in this journey, but I try to be deliberate about it — every project I pick up is chosen to close a gap in what I actually know how to do, not just to add another line to a list.
 
@@ -94,7 +94,7 @@ Outside of coursework, I spend a lot of my time taking projects through real des
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=420&lines=LET%27S+CONNECT&repeat=false" alt="Let's Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=420&lines=LET%27S+CONNECT&repeat=false" alt="I'm also here at!" />
 
 <br/>
 
