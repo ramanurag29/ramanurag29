@@ -1,0 +1,65 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&amp;family=Rajdhani:wght@400;600&amp;display=swap');
+      .title { font-family: 'Orbitron', sans-serif; font-weight: 800; fill: #e2e8f0; letter-spacing: 6px; }
+      .tag   { font-family: 'Rajdhani', sans-serif; font-weight: 600; fill: #38BDF8; letter-spacing: 5px; }
+      .trace { stroke: #1e293b; stroke-width: 2; fill: none; }
+      .trace-glow { stroke: #38BDF8; stroke-width: 1.4; fill: none; opacity: 0.35; }
+      .node { fill: #38BDF8; }
+    </style>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#182236"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#1e3a5f" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+
+  <!-- circuit traces, left side -->
+  <path class="trace" d="M0,60 H160 L190,90 H340 V150 H420"/>
+  <path class="trace-glow" d="M0,60 H160 L190,90 H340 V150 H420"/>
+  <path class="trace" d="M0,220 H120 L150,250 H300"/>
+  <path class="trace-glow" d="M0,220 H120 L150,250 H300"/>
+  <path class="trace" d="M0,150 H80 V110 H150"/>
+
+  <!-- circuit traces, right side -->
+  <path class="trace" d="M1200,70 H1040 L1010,100 H860 V160 H790"/>
+  <path class="trace-glow" d="M1200,70 H1040 L1010,100 H860 V160 H790"/>
+  <path class="trace" d="M1200,230 H1080 L1050,260 H900"/>
+  <path class="trace-glow" d="M1200,230 H1080 L1050,260 H900"/>
+  <path class="trace" d="M1200,150 H1120 V190 H1050"/>
+
+  <!-- pulse nodes -->
+  <circle class="node" cx="420" cy="150" r="4">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="node" cx="300" cy="250" r="4">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="node" cx="790" cy="160" r="4">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="node" cx="900" cy="260" r="4">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="node" cx="150" cy="110" r="3.5">
+    <animate attributeName="opacity" values="1;0.15;1" dur="3.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="node" cx="1050" cy="190" r="3.5">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- title -->
+  <text x="600" y="150" text-anchor="middle" class="title" font-size="58">RAM ANURAG</text>
+  <text x="600" y="192" text-anchor="middle" class="tag" font-size="19">
+    BUILDING AT THE EDGE OF SILICON
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
