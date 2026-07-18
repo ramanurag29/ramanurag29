@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=260&lines=ABOUT&repeat=false" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=260&lines=ABOUT ME&repeat=false" alt="About Me" />
 </div>
 
 <p align="center" style="max-width:720px;">
@@ -94,7 +94,7 @@ Outside of coursework, I spend a lot of my time taking projects through real des
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=420&lines=LET%27S+CONNECT&repeat=false" alt="I'm also here at!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=420&lines=I'm also here at&repeat=false" alt="I'm also here at!" />
 
 <br/>
 
