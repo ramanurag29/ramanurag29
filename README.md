@@ -17,8 +17,9 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=260&lines=ABOUT ME&repeat=false" alt="About Me" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2000&pause=1000&color=94A3B8&center=true&vCenter=true&width=320&lines=ABOUT+ME&repeat=false" alt="About Me" />
+</p></div>
 
 <p align="center" style="max-width:720px;">
 
@@ -94,8 +95,9 @@ Outside of coursework, I spend a lot of my time taking projects through real des
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=420&lines=I'm also here at&repeat=false" alt="I'm also here at!" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=1000&color=94A3B8&center=true&vCenter=true&width=420&lines=I%27m+also+here+at&repeat=false" alt="I'm also here at" />
+</p>
 <br/>
 
 <a href="mailto:ramanurag2908@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
