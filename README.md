@@ -42,23 +42,6 @@ Outside of coursework, I spend a lot of my time taking projects through real des
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=420&lines=TECH+STACK&repeat=false" alt="Tech Stack" />
 </div>
 
-<br/>
-
-<marquee behavior="scroll" direction="left" scrollamount="6">
-<img src="https://img.shields.io/badge/Verilog-1A1A2E?style=for-the-badge&logo=v&logoColor=38BDF8" />&nbsp;
-<img src="https://img.shields.io/badge/SystemVerilog-1A1A2E?style=for-the-badge&logo=v&logoColor=38BDF8" />&nbsp;
-<img src="https://img.shields.io/badge/Cadence_Genus-0f172a?style=for-the-badge&logo=cadence&logoColor=38BDF8" />&nbsp;
-<img src="https://img.shields.io/badge/Cadence_Innovus-0f172a?style=for-the-badge&logo=cadence&logoColor=38BDF8" />&nbsp;
-<img src="https://img.shields.io/badge/OpenLane-0f172a?style=for-the-badge&logo=linux&logoColor=38BDF8" />&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</marquee>
-
-<br/>
-
 <div align="center">
 
 **Hardware Description Languages**
