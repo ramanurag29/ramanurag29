@@ -1,42 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=RAM%20ANURAG&fontSize=60&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Building%20at%20the%20edge%20of%20silicon&descAlignY=58&descSize=18" />
+<img src="assets/banner.svg" width="100%" alt="Ram Anurag" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=RTL;VLSI;ASIC;Digital+IC+Design;Physical+Design;Silicon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=RTL;VLSI;ASIC;Digital+IC+Design;Physical+Design;Silicon" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=&fontSize=0" />
 
 </div>
 
 <br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramanurag29&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/ramanurag29?style=for-the-badge&color=0f172a&labelColor=1e293b&logo=github" />
-</p>
 
 <img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 
 <br/>
 
 <div align="center">
-
-### About
-
-4th-year B.Tech Electronics and Communication Engineering student, specializing in **VLSI, ASIC, and Digital IC Design**.
-My work moves through the full silicon journey — from RTL and simulation, through synthesis and physical implementation, to a finished layout — using both the Cadence toolchain and the open-source OpenLane flow.
-
-I care as much about **how a chip gets built** as the chip itself — clean flows, disciplined documentation, reproducible results.
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=260&lines=ABOUT&repeat=false" alt="About" />
 </div>
 
-<br/>
+<p align="center" style="max-width:720px;">
+
+I'm a final-year Electronics and Communication Engineering student building a hands-on path through <b>VLSI and ASIC design</b> — from a written specification down to a manufacturable layout. My work runs the full Cadence flow: RTL design and simulation in NCLaunch, synthesis in Genus against real SDC constraints and Liberty libraries, and place-and-route in Innovus. Alongside that, I'm learning the open-source route to silicon through OpenLane and the SKY130 PDK, validating designs in simulation before pushing them through synthesis to GDSII.
+
+What I care about most is the discipline behind the design — constraints that make sense, timing that closes cleanly, and a flow that someone else could pick up and reproduce.
+
+</p>
 
 <div align="center">
 
@@ -48,7 +38,9 @@ I care as much about **how a chip gets built** as the chip itself — clean flow
 
 <br/>
 
-## Tech Stack
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=420&lines=TECH+STACK&repeat=false" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
@@ -102,13 +94,13 @@ I care as much about **how a chip gets built** as the chip itself — clean flow
 
 <div align="center">
 
-### Let's Connect
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=100000&color=94A3B8&center=true&vCenter=true&width=420&lines=LET%27S+CONNECT&repeat=false" alt="Let's Connect" />
+
+<br/>
 
 <a href="mailto:ramanurag2908@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.youtube.com/@ramanurag_29"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=90&section=footer" width="100%"/>
 
 </div>
